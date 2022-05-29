@@ -3,7 +3,7 @@ Craft Creator / RageUI v2 / Optimisé 0.00ms / Full Configurable
 
 #### Discord : https://discord.gg/VpYP58ZjmD
 
-#### Preview : bientôt
+#### Preview : https://youtu.be/2g21oafipew
 
 - Configuration facile
 - Ajout d'Objets à Craft
