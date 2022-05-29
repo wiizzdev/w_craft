@@ -5,9 +5,9 @@ Craft Creator / RageUI v2 / Optimisé 0.00ms / Full Configurable
 
 #### Preview : bientôt
 
+- Configuration facile
 - Ajout d'Objets à Craft
 - Ajout d'Armes à Craft
-- Configuration facile
 
 ### Screenshot :
 
